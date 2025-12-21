@@ -21,3 +21,6 @@ sovrn.com, 357833, DIRECT, fafdf38b16bf6b2b
 lijit.com, 357833, DIRECT, fafdf38b16bf6b2b
 
 lijit.com, 357833-eb, DIRECT, fafdf38b16bf6b2b
+
+pangleglobal.com, 5034749, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
