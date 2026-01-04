@@ -1,14 +1,33 @@
-Our studio <gempire> attaches great importance to the protection of users' privacy. Please read the following statement carefully before you use the services provided by this game.
-The information obtained during your use of the service will collect information about your device and how you and your device interact with gempire studio products and services. Such information includes:
-1. Equipment and application information. Such as device name, device ID, device activation time, application version, device and application settings, etc.
-2. Log information. When you use the service or view the content provided by us, we will automatically collect some information and store it in the log, such as service access time, access times, access IP, event information, etc.
-3. Location information. When accessing some location-based services, it will collect, use and process the fuzzy or accurate location of your device. These location information is obtained through GPS WLAN and the network ID of the service provider.
-We strictly abide by the provisions of laws and regulations and the agreement with users, and use the collected information for the following purposes. If we use your information beyond the following purposes, we will explain it to you again and obtain your consent.
-1. Meet your personalized needs. For example, language setting, location setting, personalized help services
-2. Product development and service optimization. For example, when our system fails, we will record and analyze the information generated when the system fails to optimize our services.
-3. Evaluate and improve the effect of our promotional and promotional activities
-Revision of privacy policy:
-This game will often modify the privacy policy. If there is any change in the policy of using users' personal information, we will notify users in time.
-Problems and suggestions:
-If you have other questions and suggestions, please let us know.1
-eddieleng@qq.com
+Privacy Policy
+
+Lucky Code values the privacy of our users. Before you use the services provided by our game(s), please read the following statement carefully.
+
+During your use of our services, we may collect information about your device and how you and your device interact with Lucky Code's products and services. This information includes:
+
+Device and Application Information. Such as device name, device identifier, device activation time, application version, device and application settings, etc.
+
+Log Information. When you use our services or view content provided by us, we automatically collect certain information and store it in log files. This may include service access time, frequency of access, IP address, and event information.
+
+Location Information. When accessing certain location-based services, we may collect, use, and process the approximate or precise location of your device. This location information is obtained through GPS, Wi-Fi, and service provider network IDs.
+
+We strictly adhere to legal regulations and our agreements with users. The information collected is used for the following purposes. If we intend to use your information beyond these purposes, we will explain again and obtain your consent.
+
+To fulfill your personalized needs. For example, language settings, location settings, and personalized help services.
+
+For product development and service optimization. For instance, when our system encounters a failure, we record and analyze the information generated during the failure to improve our services.
+
+To evaluate and enhance the effectiveness of our promotional campaigns.
+
+Revisions to the Privacy Policy:
+This game may revise its Privacy Policy from time to time. If there are changes regarding the use of users' personal information, we will notify users promptly.
+
+Questions and Suggestions:
+If you have any other questions or suggestions, please let us know.
+
+This policy applies to the following apps from this company:
+
+Gem Master - Merge Puzzle
+
+Smart Ball - Color Sort Puzzle
+
+Contact Email: sunnergp@gmail.com
